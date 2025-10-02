@@ -77,3 +77,4 @@ themeToggle.addEventListener("click", () => {
 });
 
 renderTasks();
+
